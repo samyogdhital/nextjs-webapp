@@ -1,6 +1,6 @@
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: transparent;
 }
 
 .topnav a {
@@ -24,4 +24,13 @@
 .nav_right {
   display: flex;
   justify-content: flex-end;
+}
+.img {
+}
+.container {
+  background: url(../public/images/bg-img.jpg);
+  background-position: center;
+  background-size: 1800px;
+  background-repeat: no-repeat;
+  height: 100vh;
 }
