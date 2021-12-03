@@ -17,6 +17,7 @@ export default function Home() {
               <a href="#about">Contact</a>
               <div className="icon"></div>
             </div>
+            <h1 className={styles.intro}>Samyog Dhital</h1>
           </div>
         </div>
       </header>
