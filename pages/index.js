@@ -26,9 +26,15 @@ export default function Home() {
         <div className={styles.img}></div>
         <section className={styles.me}>
           <img src="../images/IMG_5026.jpg" alt="" srcset="" />
-          <h2>About me</h2>
+          <h2>
+            Hello! I'm Samyog Dhital, A Full Stack Developer From Kathmandu,
+            Nepal.
+          </h2>
           <div>
-            Hello this is me Samyog Dhital. I am a self taught programmer.
+            Feel free to connect with me! Let's talk about web dev, tech,
+            sports, photography, video games, cooking, or how I can be of help
+            to your team or business! I'd love to get to know more developers
+            and expand my network. I also know a thing or two about beer.
           </div>
         </section>
       </main>
