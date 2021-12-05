@@ -30,12 +30,12 @@ export default function Home() {
             Hello! I'm Samyog Dhital, A Full Stack Developer From Kathmandu,
             Nepal.
           </h2>
-          <div>
+          {/* <div>
             Feel free to connect with me! Let's talk about web dev, tech,
             sports, photography, video games, cooking, or how I can be of help
             to your team or business! I'd love to get to know more developers
             and expand my network. I also know a thing or two about beer.
-          </div>
+          </div> */}
         </section>
       </main>
     </>
