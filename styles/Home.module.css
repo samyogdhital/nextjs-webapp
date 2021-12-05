@@ -25,10 +25,12 @@
   display: flex;
   justify-content: flex-end;
 }
+
 .img {
 }
 .container {
   background: url(../public/images/bg-img.jpg);
+  background-color: rgba(#00ff800c);
   opacity: 0.9;
   background-position: center;
   background-size: cover;
@@ -42,4 +44,21 @@
   font-size: 64px;
   text-transform: uppercase;
   letter-spacing: 15px;
+  display: inline-block;
+}
+.subintro {
+  color: white;
+  margin-left: 14rem;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.me {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+}
+.me > img {
+  height: 300px;
+  margin: auto;
 }
